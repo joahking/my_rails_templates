@@ -1,0 +1,4 @@
+= Rails templates I use themost
+
+* devise_bbd_template: Full BDD battery: RSpec, Cucumber with machinist[http://github.com/notahat/machinist] as fixture generator and devise[http://github.com/plataformatec/devise] as authentication solution
+
